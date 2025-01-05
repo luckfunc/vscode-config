@@ -1,0 +1,15 @@
+{
+    "workbench.colorTheme": "Default Dark Modern",
+    "cursor.cpp.disabledLanguages": [
+        "plaintext",
+        "markdown",
+        "scminput"
+    ],
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.fontSize": 16,
+    "editor.fontFamily": "Geist Mono, Menlo, Monaco, 'Courier New', monospace",
+    "editor.cursorBlinking": "expand",
+    "files.autoSave": "afterDelay",
+    "editor.cursorStyle": "block",
+    "liveServer.settings.AdvanceCustomBrowserCmdLine": ""
+}
